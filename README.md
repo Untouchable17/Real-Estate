@@ -180,5 +180,6 @@ make -f Makefile
 
 
     Telegram:           @secdet17
+    Group:              t.me/secdet_team
     Email:              tylerblackout17@gmail.com
 
