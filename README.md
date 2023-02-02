@@ -117,8 +117,6 @@ CELERY_TIMEZONE=
 
 > Warning: You must have Redis and PostgreSQL pre-installed
 
-You need to create the account and get the API Keys from the following websites.
-
 * Redis - https://redis.io/
 * PostgreSQL - https://www.postgresql.org/download/
 
