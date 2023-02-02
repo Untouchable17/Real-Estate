@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/bhavsec/reconspider">
+    <a href="https://github.com/Untouchable17/Real-Estate">
         <img src="https://i.ibb.co/k4Kqmv6/2023-02-02-14-50-15.png" width="700">
     </a>
 </h1>
@@ -7,9 +7,9 @@
 <h4 align="center"> The one stop shop for all matters properties. Buy, Rent or sell with us! </h4>
 
 <p align="center">
-<a href="https://github.com/bhavsec/reconspider"><img src="https://img.shields.io/static/v1?label=version&message=1.0.7&color=blue"></a>
-<a href="https://github.com/bhavsec/reconspider/issues?q=is:issue+is:closed"><img src="https://img.shields.io/github/issues-closed/bhavsec/reconspider?color=orange"></a>
-<a href="https://travis-ci.com/bhavsec/reconspider"><img src="https://api.travis-ci.com/bhavsec/reconspider.svg"></a>
+<a href="https://github.com/Untouchable17/Real-Estate"><img src="https://img.shields.io/static/v1?label=version&message=1.0.7&color=blue"></a>
+<a href="https://github.com/Untouchable17/Real-Estate/issues?q=is:issue+is:closed"><img src="https://img.shields.io/github/issues-closed/bhavsec/reconspider?color=orange"></a>
+<a href="https://github.com/Untouchable17/Real-Estate"><img src="https://i.ibb.co/k4Kqmv6/2023-02-02-14-50-15.png)"></a>
 
 
 </p>
