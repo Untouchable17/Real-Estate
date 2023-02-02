@@ -12,7 +12,7 @@
 
 </p>
 
-# ESTATE WEBSITE
+<h1 align="center">REAL ESTATE</h1>
 
 A website for searching for real estate, renting, as well as the opportunity to use the services of a realtor. The following technologies were used
 
