@@ -22,11 +22,12 @@ A website for searching for real estate, renting, as well as the opportunity to 
 4. Redis
 5. Celery
 6. Faker
-7. Docker
-8. React
-9. Redux
-10. PostgresSQL
-11. NGINX
+7. Flower
+8. Docker
+9. React
+10. Redux
+11. Postgresql
+12. Nginx
 
 
 
